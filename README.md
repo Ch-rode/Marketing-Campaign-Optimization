@@ -9,4 +9,4 @@ The project is divided into the following reports:
 * Report 3: **Models to estimate the response variable relating to our dataset** ("purchase or not of a product")
 To each of them are connected the relative comments made for almost all of the written codes and the resulting result (as well as an interpretation when necessary).
 
-The animated view of the presentation is available [here](<https://www.beautiful.ai/player/-M1_mBzJ3yMJGgla_EA6)
+The animated view of the presentation is available [here](https://www.beautiful.ai/player/-M1_mBzJ3yMJGgla_EA6)
